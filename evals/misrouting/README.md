@@ -1,5 +1,7 @@
 # DCM Misrouting Audit — Full Census Results
 
+*Exec-facing version of this finding: [../../docs/05_executive_brief.md](../../docs/05_executive_brief.md).*
+
 Follow-up to the Phase 2 feasibility eval's flagged next step (evals/README.md):
 "Debt or credit management" showed 44% classifier agreement on a 50-complaint
 stratified sample — 20+ points below every other category. This audit pulls

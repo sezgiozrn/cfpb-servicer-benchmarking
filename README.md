@@ -4,7 +4,7 @@
 > 391,728 real CA consumer complaints (Jan 2024–Apr 2025), this project finds why,
 > and what to compare against instead.
 
-**Deliverables:** [Decision Memo](docs/01_decision_memo.md) · [BRD](docs/02_brd.md) · [KPI Dictionary](docs/03_kpi_dictionary.md) · [Data Notes](docs/04_data_notes.md) · [Live Dashboard](https://public.tableau.com/app/profile/sez.ozrn/viz/CFPBCAServicerBenchmarking/Dashboard1)
+**Deliverables:** [Executive Brief — misrouting](docs/05_executive_brief.md) · [Decision Memo](docs/01_decision_memo.md) · [BRD](docs/02_brd.md) · [KPI Dictionary](docs/03_kpi_dictionary.md) · [Data Notes](docs/04_data_notes.md) · [Live Dashboard](https://public.tableau.com/app/profile/sez.ozrn/viz/CFPBCAServicerBenchmarking/Dashboard1)
 
 **Stack:** Python (API ingestion) · DuckDB / SQL (analysis) · Tableau (dashboard) · Claude + Copilot (AI-assisted)
 
