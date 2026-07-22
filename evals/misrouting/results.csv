@@ -1,0 +1,505 @@
+complaint_id,date_received,probe_a_category,probe_b_belongs,verdict
+8100483,2024-01-03T11:35:41.000Z,Debt or credit management,YES,belongs
+8125200,2024-01-09T02:42:13.000Z,Mortgage,NO,misroute_both_probes
+8156897,2024-01-15T17:47:11.000Z,Debt collection,NO,misroute_both_probes
+8191965,2024-01-20T22:25:53.000Z,Debt or credit management,NO,misroute_one_probe
+8224405,2024-01-25T19:33:08.000Z,Debt collection,NO,misroute_both_probes
+8232543,2024-01-26T21:09:46.000Z,Debt or credit management,YES,belongs
+8232776,2024-01-27T00:34:20.000Z,Debt collection,NO,misroute_both_probes
+8247250,2024-01-29T18:11:09.000Z,Debt or credit management,NO,misroute_one_probe
+8259075,2024-01-31T22:54:10.000Z,Debt or credit management,YES,belongs
+8282794,2024-02-06T05:51:06.000Z,Debt or credit management,YES,belongs
+8378760,2024-02-19T22:35:20.000Z,Debt or credit management,YES,belongs
+8423181,2024-02-27T01:27:52.000Z,Debt collection,NO,misroute_both_probes
+8421824,2024-02-27T04:22:02.000Z,Credit card,NO,misroute_both_probes
+8439542,2024-02-29T01:35:35.000Z,Debt collection,NO,misroute_both_probes
+8452023,2024-03-02T04:52:24.000Z,Checking or savings account,NO,misroute_both_probes
+8465261,2024-03-03T23:14:05.000Z,Debt collection,YES,misroute_one_probe
+8468979,2024-03-04T17:01:39.000Z,Debt or credit management,YES,belongs
+8471301,2024-03-04T20:26:24.000Z,Checking or savings account,NO,misroute_both_probes
+8499927,2024-03-07T21:03:16.000Z,Debt collection,NO,misroute_both_probes
+8509228,2024-03-08T15:49:23.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+8545435,2024-03-14T15:45:32.000Z,Debt collection,NO,misroute_both_probes
+8609258,2024-03-22T17:24:51.000Z,Debt or credit management,YES,belongs
+8640717,2024-03-27T20:27:41.000Z,Debt or credit management,NO,misroute_one_probe
+8660300,2024-03-30T06:12:13.000Z,Debt collection,NO,misroute_both_probes
+8663368,2024-03-31T06:08:28.000Z,Debt or credit management,YES,belongs
+8664922,2024-03-31T21:31:41.000Z,Debt collection,NO,misroute_both_probes
+8675924,2024-04-02T06:27:29.000Z,Credit card,NO,misroute_both_probes
+8677375,2024-04-03T02:46:29.000Z,Debt collection,NO,misroute_both_probes
+8691997,2024-04-03T17:15:55.000Z,Debt collection,NO,misroute_both_probes
+8691823,2024-04-04T04:13:43.000Z,Debt or credit management,YES,belongs
+8689548,2024-04-05T02:26:57.000Z,Checking or savings account,NO,misroute_both_probes
+8688506,2024-04-05T04:46:42.000Z,Debt collection,NO,misroute_both_probes
+8707554,2024-04-05T18:08:49.000Z,Debt or credit management,YES,belongs
+8714733,2024-04-06T07:04:52.000Z,Credit card,NO,misroute_both_probes
+8723416,2024-04-08T21:36:19.000Z,Mortgage,NO,misroute_both_probes
+8752736,2024-04-11T20:21:22.000Z,Credit card,NO,misroute_both_probes
+8751412,2024-04-11T22:41:16.000Z,Checking or savings account,NO,misroute_both_probes
+8762636,2024-04-12T18:58:41.000Z,Debt collection,NO,misroute_both_probes
+8808044,2024-04-18T17:00:29.000Z,Debt or credit management,NO,misroute_one_probe
+8829424,2024-04-22T16:49:37.000Z,Credit card,NO,misroute_both_probes
+8846366,2024-04-24T13:08:22.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+8869486,2024-04-26T15:56:27.000Z,Debt collection,NO,misroute_both_probes
+8885085,2024-04-29T14:47:41.000Z,Debt or credit management,YES,belongs
+8916688,2024-05-02T16:56:24.000Z,Debt collection,NO,misroute_both_probes
+8926071,2024-05-03T15:59:29.000Z,Debt or credit management,YES,belongs
+8939953,2024-05-06T23:43:22.000Z,Debt or credit management,YES,belongs
+8974484,2024-05-09T18:08:23.000Z,Debt or credit management,YES,belongs
+8989247,2024-05-12T04:41:51.000Z,Debt collection,NO,misroute_both_probes
+9003534,2024-05-14T19:06:04.000Z,Checking or savings account,NO,misroute_both_probes
+9003888,2024-05-14T20:26:44.000Z,Debt or credit management,YES,belongs
+9027253,2024-05-16T15:48:32.000Z,Debt or credit management,YES,belongs
+9102104,2024-05-27T00:42:14.000Z,Debt or credit management,NO,misroute_one_probe
+9129063,2024-05-29T16:04:50.000Z,Debt collection,NO,misroute_both_probes
+9134544,2024-05-30T20:48:15.000Z,Credit card,NO,misroute_both_probes
+9188358,2024-06-05T09:21:26.000Z,Debt collection,NO,misroute_both_probes
+9218640,2024-06-10T23:17:16.000Z,Credit card,NO,misroute_both_probes
+9236217,2024-06-12T01:41:01.000Z,Debt or credit management,YES,belongs
+9246569,2024-06-12T15:52:54.000Z,Debt or credit management,YES,belongs
+9275864,2024-06-17T21:17:23.000Z,Debt or credit management,YES,belongs
+9275596,2024-06-17T21:34:06.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+9326186,2024-06-22T10:47:46.000Z,Debt or credit management,YES,belongs
+9346068,2024-06-24T18:40:12.000Z,Mortgage,NO,misroute_both_probes
+9340369,2024-06-24T23:25:29.000Z,Debt collection,NO,misroute_both_probes
+9333189,2024-06-25T19:44:29.000Z,Debt collection,NO,misroute_both_probes
+9331580,2024-06-25T23:26:13.000Z,Debt collection,NO,misroute_both_probes
+9445120,2024-07-07T03:20:11.000Z,Mortgage,NO,misroute_both_probes
+9455597,2024-07-08T15:43:28.000Z,Prepaid card,NO,misroute_both_probes
+9509361,2024-07-14T09:53:01.000Z,Debt collection,YES,misroute_one_probe
+9511535,2024-07-16T00:44:55.000Z,Credit card,NO,misroute_both_probes
+9519982,2024-07-16T01:50:35.000Z,Debt collection,NO,misroute_both_probes
+9543055,2024-07-17T20:41:50.000Z,Credit card,NO,misroute_both_probes
+9554258,2024-07-18T18:28:08.000Z,Debt or credit management,YES,belongs
+9562298,2024-07-19T18:54:20.000Z,Debt or credit management,YES,belongs
+9566304,2024-07-20T08:08:27.000Z,Debt collection,NO,misroute_both_probes
+9607601,2024-07-24T16:27:40.000Z,Mortgage,NO,misroute_both_probes
+9617934,2024-07-25T11:21:45.000Z,Debt or credit management,YES,belongs
+9639992,2024-07-27T07:08:47.000Z,Debt or credit management,YES,belongs
+9669501,2024-08-01T00:52:50.000Z,Debt or credit management,YES,belongs
+9681916,2024-08-01T22:01:16.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+9688865,2024-08-02T22:12:28.000Z,Debt or credit management,YES,belongs
+9688433,2024-08-02T23:00:53.000Z,Debt or credit management,YES,belongs
+9704256,2024-08-04T20:59:02.000Z,Debt or credit management,YES,belongs
+9713993,2024-08-05T16:19:24.000Z,Debt collection,NO,misroute_both_probes
+9745357,2024-08-08T04:37:27.000Z,Checking or savings account,NO,misroute_both_probes
+9772777,2024-08-10T10:57:16.000Z,Debt or credit management,YES,belongs
+9787932,2024-08-13T12:38:23.000Z,Debt or credit management,NO,misroute_one_probe
+9833226,2024-08-17T20:08:03.000Z,Credit card,NO,misroute_both_probes
+9832274,2024-08-18T00:13:43.000Z,Debt or credit management,YES,belongs
+9891750,2024-08-22T23:13:12.000Z,Debt collection,NO,misroute_both_probes
+9909140,2024-08-25T16:31:14.000Z,Debt collection,YES,misroute_one_probe
+9935381,2024-08-27T18:42:15.000Z,Debt collection,YES,misroute_one_probe
+9969839,2024-08-28T23:47:50.000Z,Mortgage,NO,misroute_both_probes
+9968769,2024-08-30T21:44:26.000Z,Debt or credit management,NO,misroute_one_probe
+9995351,2024-09-02T06:17:04.000Z,Debt or credit management,YES,belongs
+10001790,2024-09-02T06:34:45.000Z,Debt or credit management,YES,belongs
+10013004,2024-09-04T15:10:56.000Z,Debt collection,NO,misroute_both_probes
+10018440,2024-09-05T11:08:32.000Z,Mortgage,NO,misroute_both_probes
+10102758,2024-09-12T11:47:11.000Z,Mortgage,NO,misroute_both_probes
+10229461,2024-09-24T16:58:20.000Z,Mortgage,YES,misroute_one_probe
+10223963,2024-09-24T20:47:52.000Z,Debt collection,NO,misroute_both_probes
+10232959,2024-09-24T22:38:38.000Z,Debt collection,NO,misroute_both_probes
+10272735,2024-09-25T00:06:29.000Z,Debt or credit management,YES,belongs
+10267257,2024-09-25T00:11:15.000Z,Debt collection,NO,misroute_both_probes
+10281627,2024-09-29T18:37:19.000Z,Debt or credit management,YES,belongs
+10342958,2024-10-03T23:57:00.000Z,Debt or credit management,YES,belongs
+10352639,2024-10-03T23:59:13.000Z,Debt or credit management,YES,belongs
+10517310,2024-10-20T09:29:25.000Z,Debt collection,NO,misroute_both_probes
+10545059,2024-10-22T06:02:14.000Z,Debt collection,NO,misroute_both_probes
+10551077,2024-10-23T17:08:11.000Z,Checking or savings account,NO,misroute_both_probes
+10547183,2024-10-23T22:59:29.000Z,Debt collection,NO,misroute_both_probes
+10580602,2024-10-25T16:28:14.000Z,Debt collection,NO,misroute_both_probes
+10577509,2024-10-25T17:15:55.000Z,Debt collection,NO,misroute_both_probes
+10586462,2024-10-26T23:25:45.000Z,Debt collection,NO,misroute_both_probes
+10607060,2024-10-28T13:46:46.000Z,Debt or credit management,YES,belongs
+10628779,2024-10-31T00:10:31.000Z,Debt or credit management,YES,belongs
+10665366,2024-11-03T03:44:10.000Z,Checking or savings account,NO,misroute_both_probes
+10681757,2024-11-04T23:02:24.000Z,Prepaid card,NO,misroute_both_probes
+10748939,2024-11-10T19:03:25.000Z,Debt collection,NO,misroute_both_probes
+10753210,2024-11-12T00:57:05.000Z,Debt collection,NO,misroute_both_probes
+10780219,2024-11-13T23:48:54.000Z,Debt collection,NO,misroute_both_probes
+10804829,2024-11-15T03:32:48.000Z,Debt or credit management,YES,belongs
+10811955,2024-11-15T19:28:18.000Z,Debt collection,NO,misroute_both_probes
+10806888,2024-11-16T03:49:45.000Z,Debt collection,NO,misroute_both_probes
+10872771,2024-11-18T19:57:03.000Z,Debt collection,NO,misroute_both_probes
+10867031,2024-11-20T04:57:03.000Z,Debt collection,NO,misroute_both_probes
+10891607,2024-11-21T15:59:50.000Z,Debt or credit management,NO,misroute_one_probe
+10900922,2024-11-22T17:36:26.000Z,Debt or credit management,YES,belongs
+10926999,2024-11-25T23:19:08.000Z,Debt collection,NO,misroute_both_probes
+11047887,2024-12-05T06:58:29.000Z,Debt or credit management,YES,belongs
+11085574,2024-12-09T21:36:07.000Z,Debt collection,NO,misroute_both_probes
+11094952,2024-12-10T23:49:48.000Z,Debt or credit management,YES,belongs
+11111250,2024-12-12T01:33:05.000Z,Debt or credit management,YES,belongs
+11138870,2024-12-12T07:09:10.000Z,Debt or credit management,YES,belongs
+11130903,2024-12-12T08:00:05.000Z,Debt or credit management,YES,belongs
+11183186,2024-12-17T15:52:18.000Z,Debt collection,NO,misroute_both_probes
+11181796,2024-12-17T19:16:55.000Z,Credit card,NO,misroute_both_probes
+11190243,2024-12-17T21:04:10.000Z,Debt collection,NO,misroute_both_probes
+11181318,2024-12-17T23:20:54.000Z,Mortgage,YES,misroute_one_probe
+11212186,2024-12-19T16:08:08.000Z,Checking or savings account,NO,misroute_both_probes
+11213927,2024-12-19T16:40:55.000Z,Debt or credit management,YES,belongs
+11222178,2024-12-19T22:15:05.000Z,Debt or credit management,YES,belongs
+11297501,2024-12-27T06:53:39.000Z,Debt or credit management,NO,misroute_one_probe
+11298575,2024-12-27T15:35:21.000Z,Vehicle loan or lease,NO,misroute_both_probes
+11293866,2024-12-27T20:22:06.000Z,Debt or credit management,YES,belongs
+11294514,2024-12-27T22:10:19.000Z,Prepaid card,NO,misroute_both_probes
+11317498,2024-12-29T06:48:37.000Z,Debt or credit management,YES,belongs
+11317758,2024-12-29T08:01:34.000Z,Debt or credit management,YES,belongs
+11330100,2024-12-30T08:37:34.000Z,Debt collection,NO,misroute_both_probes
+11327326,2024-12-30T17:26:22.000Z,Debt or credit management,YES,belongs
+11322978,2024-12-30T23:36:14.000Z,Debt or credit management,YES,belongs
+11318776,2024-12-31T06:45:12.000Z,Debt or credit management,NO,misroute_one_probe
+11335739,2024-12-31T23:03:16.000Z,Credit card,NO,misroute_both_probes
+11450540,2025-01-09T22:36:59.000Z,Debt or credit management,NO,misroute_one_probe
+11478723,2025-01-11T08:11:34.000Z,Debt or credit management,YES,belongs
+11491215,2025-01-12T06:03:48.000Z,Debt or credit management,YES,belongs
+11491929,2025-01-12T10:12:50.000Z,Debt collection,NO,misroute_both_probes
+11490092,2025-01-12T16:14:54.000Z,Prepaid card,NO,misroute_both_probes
+11486487,2025-01-12T20:24:38.000Z,Debt collection,NO,misroute_both_probes
+11557238,2025-01-15T05:04:06.000Z,Debt collection,NO,misroute_both_probes
+11663748,2025-01-17T18:01:25.000Z,Checking or savings account,NO,misroute_both_probes
+11659322,2025-01-17T19:59:19.000Z,Checking or savings account,NO,misroute_both_probes
+11636522,2025-01-18T18:21:42.000Z,Debt collection,NO,misroute_both_probes
+11679858,2025-01-20T19:41:54.000Z,Debt collection,NO,misroute_both_probes
+11585678,2025-01-20T19:51:03.000Z,Debt collection,NO,misroute_both_probes
+11612878,2025-01-20T21:05:24.000Z,Checking or savings account,NO,misroute_both_probes
+11720305,2025-01-23T04:08:05.000Z,Debt collection,NO,misroute_both_probes
+11763659,2025-01-24T12:54:35.000Z,Debt or credit management,YES,belongs
+11755497,2025-01-24T19:01:10.000Z,Debt or credit management,YES,belongs
+11755127,2025-01-25T13:54:16.000Z,Mortgage,NO,misroute_both_probes
+11740226,2025-01-25T19:03:33.000Z,Checking or savings account,NO,misroute_both_probes
+11724266,2025-01-26T06:39:50.000Z,Mortgage,NO,misroute_both_probes
+11780313,2025-01-26T12:05:33.000Z,Debt collection,NO,misroute_both_probes
+11776791,2025-01-26T21:55:45.000Z,Debt collection,NO,misroute_both_probes
+11775830,2025-01-27T00:20:30.000Z,Vehicle loan or lease,NO,misroute_both_probes
+11873259,2025-01-31T15:56:25.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+11867524,2025-01-31T19:59:20.000Z,Credit card,NO,misroute_both_probes
+11903574,2025-02-04T03:42:53.000Z,Debt or credit management,YES,belongs
+11950675,2025-02-05T04:39:57.000Z,Debt or credit management,YES,belongs
+11941613,2025-02-06T01:22:52.000Z,Debt or credit management,YES,belongs
+11965647,2025-02-06T22:17:02.000Z,Debt collection,NO,misroute_both_probes
+11993168,2025-02-07T18:39:29.000Z,Mortgage,NO,misroute_both_probes
+12001958,2025-02-09T03:40:28.000Z,Debt collection,NO,misroute_both_probes
+12018470,2025-02-10T19:08:59.000Z,Debt collection,NO,misroute_both_probes
+12056423,2025-02-12T02:55:07.000Z,Debt or credit management,YES,belongs
+12034830,2025-02-12T03:13:52.000Z,Debt or credit management,NO,misroute_one_probe
+12052345,2025-02-13T20:16:21.000Z,Debt or credit management,YES,belongs
+12086146,2025-02-14T09:26:14.000Z,Debt collection,NO,misroute_both_probes
+12127476,2025-02-18T20:37:51.000Z,Debt collection,NO,misroute_both_probes
+12125397,2025-02-19T03:54:56.000Z,Debt collection,NO,misroute_both_probes
+12184639,2025-02-23T15:35:01.000Z,Debt or credit management,YES,belongs
+12199686,2025-02-25T00:53:28.000Z,Debt or credit management,YES,belongs
+12197907,2025-02-25T06:17:43.000Z,Debt collection,NO,misroute_both_probes
+12203796,2025-02-26T01:40:19.000Z,Debt collection,NO,misroute_both_probes
+12233853,2025-02-26T05:09:07.000Z,Debt collection,NO,misroute_both_probes
+12249301,2025-02-28T00:58:19.000Z,Debt or credit management,YES,belongs
+12282562,2025-03-02T20:21:00.000Z,Debt or credit management,NO,misroute_one_probe
+12339900,2025-03-06T00:09:16.000Z,Debt or credit management,YES,belongs
+12358262,2025-03-06T13:06:24.000Z,Debt or credit management,YES,belongs
+12345667,2025-03-07T00:11:06.000Z,Checking or savings account,NO,misroute_both_probes
+12375088,2025-03-07T12:02:19.000Z,Credit card,NO,misroute_both_probes
+12362395,2025-03-07T23:26:38.000Z,Mortgage,NO,misroute_both_probes
+12382546,2025-03-08T06:42:18.000Z,Debt or credit management,YES,belongs
+12441108,2025-03-12T21:30:18.000Z,Debt collection,NO,misroute_both_probes
+12453672,2025-03-13T18:55:10.000Z,Debt collection,NO,misroute_both_probes
+12484100,2025-03-14T20:28:28.000Z,Debt or credit management,YES,belongs
+12495084,2025-03-15T03:20:58.000Z,Prepaid card,NO,misroute_both_probes
+12516747,2025-03-17T07:53:39.000Z,Mortgage,NO,misroute_both_probes
+12522061,2025-03-18T04:35:07.000Z,Credit card,NO,misroute_both_probes
+12545474,2025-03-18T14:58:10.000Z,Debt or credit management,YES,belongs
+12560569,2025-03-19T20:47:17.000Z,Credit card,NO,misroute_both_probes
+12558884,2025-03-19T21:35:50.000Z,Debt collection,NO,misroute_both_probes
+12688465,2025-03-27T17:15:43.000Z,Debt or credit management,YES,belongs
+12707656,2025-03-28T14:50:45.000Z,Debt collection,NO,misroute_both_probes
+12781322,2025-04-02T18:30:08.000Z,Debt or credit management,NO,misroute_one_probe
+12836928,2025-04-06T05:10:40.000Z,Debt or credit management,YES,belongs
+12854641,2025-04-07T19:52:30.000Z,Debt or credit management,YES,belongs
+12868634,2025-04-07T21:48:28.000Z,Mortgage,NO,misroute_both_probes
+12901311,2025-04-09T20:10:17.000Z,Student loan,YES,misroute_one_probe
+12913740,2025-04-10T22:42:22.000Z,Debt or credit management,YES,belongs
+13045121,2025-04-17T16:09:05.000Z,Debt collection,YES,misroute_one_probe
+13069022,2025-04-19T17:06:56.000Z,Debt or credit management,YES,belongs
+13143785,2025-04-23T18:15:14.000Z,Debt or credit management,YES,belongs
+13182181,2025-04-25T17:49:41.000Z,Debt or credit management,YES,belongs
+13229601,2025-04-29T04:28:43.000Z,Debt or credit management,YES,belongs
+13253679,2025-04-30T18:55:56.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+13322611,2025-05-04T04:33:46.000Z,Debt or credit management,YES,belongs
+13515079,2025-05-14T03:55:58.000Z,Debt or credit management,YES,belongs
+13514634,2025-05-14T16:12:19.000Z,Debt collection,NO,misroute_both_probes
+13534398,2025-05-15T16:49:12.000Z,Debt collection,NO,misroute_both_probes
+13566646,2025-05-17T12:33:48.000Z,Debt collection,NO,misroute_both_probes
+13586528,2025-05-19T14:31:37.000Z,Debt or credit management,YES,belongs
+13606457,2025-05-20T06:30:44.000Z,Debt or credit management,YES,belongs
+13616770,2025-05-20T17:55:02.000Z,Debt or credit management,NO,misroute_one_probe
+13637707,2025-05-21T17:22:31.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+13647524,2025-05-22T05:59:44.000Z,Debt or credit management,NO,misroute_one_probe
+13672216,2025-05-23T13:52:50.000Z,Credit card,NO,misroute_both_probes
+13703145,2025-05-25T16:13:37.000Z,Debt or credit management,YES,belongs
+13711720,2025-05-26T20:51:58.000Z,Debt collection,NO,misroute_both_probes
+13746781,2025-05-28T19:51:31.000Z,Debt collection,NO,misroute_both_probes
+13799254,2025-05-31T01:24:50.000Z,Debt collection,NO,misroute_both_probes
+13826530,2025-06-01T00:13:24.000Z,Debt or credit management,YES,belongs
+13826371,2025-06-01T00:49:37.000Z,Debt or credit management,YES,belongs
+13826600,2025-06-01T00:53:21.000Z,Debt or credit management,YES,belongs
+13826408,2025-06-01T00:57:30.000Z,Debt or credit management,YES,belongs
+13829654,2025-06-01T23:34:17.000Z,Mortgage,NO,misroute_both_probes
+13861056,2025-06-03T20:06:29.000Z,Debt or credit management,YES,belongs
+13896272,2025-06-04T10:52:08.000Z,Debt collection,NO,misroute_both_probes
+13884904,2025-06-04T20:48:26.000Z,Debt or credit management,YES,belongs
+13972462,2025-06-09T23:25:24.000Z,Debt or credit management,YES,belongs
+13995982,2025-06-10T17:41:07.000Z,Mortgage,NO,misroute_both_probes
+14094727,2025-06-16T21:56:54.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+14130356,2025-06-17T15:28:53.000Z,Debt or credit management,YES,belongs
+14126730,2025-06-17T17:35:54.000Z,Debt collection,NO,misroute_both_probes
+14140319,2025-06-19T06:15:44.000Z,Debt collection,NO,misroute_both_probes
+14202424,2025-06-20T09:46:22.000Z,Debt collection,NO,misroute_both_probes
+14188329,2025-06-20T22:49:02.000Z,Checking or savings account,NO,misroute_both_probes
+14207747,2025-06-23T15:38:12.000Z,Debt or credit management,NO,misroute_one_probe
+14261178,2025-06-24T23:48:54.000Z,Student loan,NO,misroute_both_probes
+14260252,2025-06-25T01:02:15.000Z,Credit card,NO,misroute_both_probes
+14315921,2025-06-26T17:49:28.000Z,Credit card,NO,misroute_both_probes
+14346614,2025-06-28T16:30:41.000Z,Debt or credit management,YES,belongs
+14352767,2025-06-29T06:06:03.000Z,Credit card,NO,misroute_both_probes
+14376352,2025-06-30T14:04:47.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+14472185,2025-07-04T02:53:47.000Z,Checking or savings account,NO,misroute_both_probes
+14530279,2025-07-09T00:04:59.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+14532123,2025-07-09T04:18:57.000Z,Checking or savings account,NO,misroute_both_probes
+14554964,2025-07-09T06:30:57.000Z,Debt collection,NO,misroute_both_probes
+21707839,2025-07-09T14:49:29.000Z,Debt or credit management,YES,belongs
+14542012,2025-07-09T19:10:56.000Z,Credit card,NO,misroute_both_probes
+14615151,2025-07-12T06:44:28.000Z,Credit card,YES,misroute_one_probe
+14623927,2025-07-13T05:05:46.000Z,Debt or credit management,YES,belongs
+14644203,2025-07-14T20:04:32.000Z,Debt collection,NO,misroute_both_probes
+14645408,2025-07-14T20:12:35.000Z,Debt collection,NO,misroute_both_probes
+14631195,2025-07-14T20:29:02.000Z,Debt collection,NO,misroute_both_probes
+14685031,2025-07-16T18:18:22.000Z,Credit card,NO,misroute_both_probes
+14724786,2025-07-17T12:15:38.000Z,Debt or credit management,YES,belongs
+14736893,2025-07-18T23:02:59.000Z,Debt or credit management,YES,belongs
+14735387,2025-07-19T01:48:14.000Z,Debt or credit management,YES,belongs
+14791145,2025-07-19T22:57:00.000Z,Debt or credit management,YES,belongs
+14785965,2025-07-20T17:47:55.000Z,Checking or savings account,NO,misroute_both_probes
+14810879,2025-07-22T15:08:33.000Z,Debt or credit management,YES,belongs
+14804599,2025-07-22T18:07:56.000Z,Debt collection,NO,misroute_both_probes
+14869814,2025-07-24T22:38:19.000Z,Debt collection,YES,misroute_one_probe
+14878224,2025-07-25T20:19:41.000Z,Debt or credit management,YES,belongs
+14874453,2025-07-25T22:53:07.000Z,Debt collection,NO,misroute_both_probes
+14903701,2025-07-26T21:05:06.000Z,Prepaid card,NO,misroute_both_probes
+14946618,2025-07-29T21:29:27.000Z,Debt or credit management,YES,belongs
+15023636,2025-08-02T17:42:31.000Z,Debt or credit management,YES,belongs
+15067090,2025-08-04T22:12:30.000Z,Debt collection,NO,misroute_both_probes
+15178892,2025-08-08T02:22:01.000Z,Checking or savings account,NO,misroute_both_probes
+15187378,2025-08-09T16:47:10.000Z,Debt collection,NO,misroute_both_probes
+15181791,2025-08-10T00:25:15.000Z,Debt or credit management,YES,belongs
+15208140,2025-08-11T19:05:01.000Z,Debt or credit management,NO,misroute_one_probe
+15275568,2025-08-13T04:49:44.000Z,Debt or credit management,YES,belongs
+15255821,2025-08-13T21:08:15.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+15453651,2025-08-22T18:02:28.000Z,Mortgage,NO,misroute_both_probes
+15470721,2025-08-23T02:23:37.000Z,Debt or credit management,YES,belongs
+15508575,2025-08-24T19:12:37.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+15489883,2025-08-25T23:37:28.000Z,Debt collection,NO,misroute_both_probes
+15532560,2025-08-26T17:10:17.000Z,Debt collection,NO,misroute_both_probes
+15574601,2025-08-28T21:56:54.000Z,Debt collection,YES,misroute_one_probe
+15719874,2025-09-04T17:03:53.000Z,Debt or credit management,YES,belongs
+15719048,2025-09-04T17:37:20.000Z,Debt or credit management,YES,belongs
+15803928,2025-09-08T13:59:07.000Z,Debt collection,NO,misroute_both_probes
+15820069,2025-09-09T19:09:07.000Z,Debt or credit management,NO,misroute_one_probe
+15842016,2025-09-10T20:43:14.000Z,Debt collection,NO,misroute_both_probes
+15869544,2025-09-11T21:26:26.000Z,Debt collection,NO,misroute_both_probes
+15951271,2025-09-15T10:16:21.000Z,Debt or credit management,YES,belongs
+15949560,2025-09-15T10:56:11.000Z,Debt or credit management,YES,belongs
+15957527,2025-09-15T19:49:38.000Z,Debt or credit management,NO,misroute_one_probe
+16036779,2025-09-18T07:27:11.000Z,Debt collection,NO,misroute_both_probes
+16035711,2025-09-18T08:00:37.000Z,Debt collection,NO,misroute_both_probes
+16025962,2025-09-18T18:12:23.000Z,Debt collection,NO,misroute_both_probes
+16022844,2025-09-18T18:46:55.000Z,Debt or credit management,NO,misroute_one_probe
+16020796,2025-09-18T20:24:37.000Z,Student loan,NO,misroute_both_probes
+16047950,2025-09-19T21:11:01.000Z,Debt collection,NO,misroute_both_probes
+16103305,2025-09-22T18:00:33.000Z,Debt or credit management,NO,misroute_one_probe
+16129832,2025-09-23T17:03:45.000Z,Student loan,NO,misroute_both_probes
+16207807,2025-09-26T12:16:09.000Z,Debt or credit management,YES,belongs
+16266547,2025-09-30T19:09:09.000Z,Debt collection,NO,misroute_both_probes
+16292295,2025-10-01T18:42:01.000Z,Debt or credit management,YES,belongs
+16314222,2025-10-02T21:44:09.000Z,Debt collection,NO,misroute_both_probes
+16362967,2025-10-05T00:50:43.000Z,Credit card,NO,misroute_both_probes
+16417648,2025-10-07T17:07:33.000Z,Debt or credit management,YES,belongs
+16433021,2025-10-08T01:44:05.000Z,Debt or credit management,YES,belongs
+16461874,2025-10-09T04:31:48.000Z,Debt or credit management,NO,misroute_one_probe
+16480480,2025-10-09T11:36:42.000Z,Debt collection,NO,misroute_both_probes
+16553318,2025-10-13T05:02:24.000Z,Debt or credit management,YES,belongs
+16535137,2025-10-13T23:11:51.000Z,Debt collection,NO,misroute_both_probes
+16581950,2025-10-14T17:10:46.000Z,Prepaid card,NO,misroute_both_probes
+16566741,2025-10-14T18:35:18.000Z,Debt collection,NO,misroute_both_probes
+16585523,2025-10-14T23:28:34.000Z,Vehicle loan or lease,NO,misroute_both_probes
+16583691,2025-10-15T02:32:38.000Z,Debt or credit management,NO,misroute_one_probe
+16594441,2025-10-15T21:21:16.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+16684686,2025-10-20T00:30:58.000Z,Checking or savings account,NO,misroute_both_probes
+16767106,2025-10-23T06:00:58.000Z,Debt collection,NO,misroute_both_probes
+16880727,2025-10-28T03:22:51.000Z,Debt or credit management,YES,belongs
+16932430,2025-10-30T07:06:37.000Z,Checking or savings account,NO,misroute_both_probes
+16920302,2025-10-30T17:50:06.000Z,Debt or credit management,YES,belongs
+16957733,2025-10-31T06:14:27.000Z,Checking or savings account,NO,misroute_both_probes
+16990544,2025-11-03T18:51:48.000Z,Debt or credit management,NO,misroute_one_probe
+17029438,2025-11-04T04:28:59.000Z,Debt collection,NO,misroute_both_probes
+17029581,2025-11-04T04:44:19.000Z,Debt collection,NO,misroute_both_probes
+17029809,2025-11-04T04:48:34.000Z,Debt collection,NO,misroute_both_probes
+17029109,2025-11-04T04:53:49.000Z,Debt collection,NO,misroute_both_probes
+17028105,2025-11-04T06:20:33.000Z,Debt or credit management,YES,belongs
+17007332,2025-11-05T04:24:22.000Z,Debt collection,NO,misroute_both_probes
+17045504,2025-11-05T16:04:50.000Z,Credit card,NO,misroute_both_probes
+17031731,2025-11-05T23:12:47.000Z,Debt or credit management,NO,misroute_one_probe
+17068950,2025-11-06T20:57:24.000Z,Debt or credit management,YES,belongs
+17099906,2025-11-07T16:41:50.000Z,Debt collection,NO,misroute_both_probes
+17099565,2025-11-07T19:10:07.000Z,Debt or credit management,YES,belongs
+17113979,2025-11-08T16:55:58.000Z,Debt or credit management,NO,misroute_one_probe
+17218448,2025-11-13T22:56:37.000Z,Debt or credit management,YES,belongs
+17216101,2025-11-13T23:56:42.000Z,Debt or credit management,YES,belongs
+17245248,2025-11-15T02:22:20.000Z,Debt collection,NO,misroute_both_probes
+17272941,2025-11-15T19:28:33.000Z,Debt collection,YES,misroute_one_probe
+17285492,2025-11-16T07:05:47.000Z,Debt collection,NO,misroute_both_probes
+17284861,2025-11-16T07:21:45.000Z,Debt collection,NO,misroute_both_probes
+17284905,2025-11-16T07:27:12.000Z,Debt collection,NO,misroute_both_probes
+17299630,2025-11-17T19:25:49.000Z,Mortgage,NO,misroute_both_probes
+18692656,2025-11-19T02:49:10.000Z,Debt or credit management,YES,belongs
+17871261,2025-11-20T21:47:01.000Z,Debt or credit management,YES,belongs
+17465204,2025-11-25T01:15:59.000Z,Debt or credit management,YES,belongs
+17874746,2025-11-26T12:02:18.000Z,Debt or credit management,NO,misroute_one_probe
+17938188,2025-11-27T03:39:34.000Z,Debt collection,NO,misroute_both_probes
+17590843,2025-11-29T16:04:08.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+17590639,2025-11-29T16:15:59.000Z,Debt or credit management,YES,belongs
+18038267,2025-11-30T09:27:34.000Z,Debt or credit management,YES,belongs
+17623741,2025-12-01T04:05:05.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+17684590,2025-12-03T07:13:35.000Z,Debt collection,NO,misroute_both_probes
+17831278,2025-12-03T07:22:29.000Z,Debt collection,NO,misroute_both_probes
+17683373,2025-12-03T07:35:20.000Z,Debt collection,NO,misroute_both_probes
+17831710,2025-12-03T07:39:54.000Z,Debt collection,NO,misroute_both_probes
+17684380,2025-12-03T07:43:48.000Z,Debt collection,NO,misroute_both_probes
+17901203,2025-12-03T07:54:49.000Z,Debt collection,NO,misroute_both_probes
+17974493,2025-12-03T08:00:20.000Z,Debt collection,NO,misroute_both_probes
+18091284,2025-12-03T08:05:14.000Z,Debt collection,NO,misroute_both_probes
+18107759,2025-12-03T20:47:12.000Z,Credit card,NO,misroute_both_probes
+17762689,2025-12-05T04:08:25.000Z,Debt or credit management,YES,belongs
+17850131,2025-12-08T22:24:43.000Z,Debt collection,NO,misroute_both_probes
+17852039,2025-12-08T23:27:30.000Z,Debt or credit management,YES,belongs
+18091223,2025-12-16T22:22:59.000Z,Debt or credit management,YES,belongs
+18207546,2025-12-21T19:37:56.000Z,Checking or savings account,NO,misroute_both_probes
+18220703,2025-12-22T16:33:27.000Z,Debt collection,NO,misroute_both_probes
+18232034,2025-12-22T22:17:29.000Z,Debt collection,NO,misroute_both_probes
+18233743,2025-12-22T23:34:56.000Z,Debt collection,NO,misroute_both_probes
+18287955,2025-12-26T02:28:15.000Z,Checking or savings account,NO,misroute_both_probes
+18301149,2025-12-26T19:13:52.000Z,Vehicle loan or lease,NO,misroute_both_probes
+18320470,2025-12-27T19:26:15.000Z,Debt collection,NO,misroute_both_probes
+18332033,2025-12-28T23:25:06.000Z,Debt or credit management,YES,belongs
+18348821,2025-12-29T19:39:42.000Z,Credit card,NO,misroute_both_probes
+18395640,2025-12-31T18:49:09.000Z,Debt collection,NO,misroute_both_probes
+18412548,2026-01-02T02:38:52.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+18437979,2026-01-03T02:22:48.000Z,Debt or credit management,YES,belongs
+18442178,2026-01-03T12:26:48.000Z,Debt or credit management,YES,belongs
+18446924,2026-01-03T20:49:47.000Z,Debt or credit management,YES,belongs
+18451190,2026-01-04T07:07:17.000Z,Debt or credit management,YES,belongs
+18493415,2026-01-06T11:14:29.000Z,Prepaid card,NO,misroute_both_probes
+18544063,2026-01-07T20:34:49.000Z,Credit card,NO,misroute_both_probes
+18571410,2026-01-08T17:50:32.000Z,Debt or credit management,YES,belongs
+18585281,2026-01-09T00:19:18.000Z,Debt collection,NO,misroute_both_probes
+18629294,2026-01-10T20:50:14.000Z,Checking or savings account,NO,misroute_both_probes
+18659141,2026-01-12T19:57:01.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+18699194,2026-01-13T22:51:28.000Z,Debt or credit management,YES,belongs
+18702691,2026-01-14T01:52:32.000Z,Credit card,NO,misroute_both_probes
+18702773,2026-01-14T01:58:56.000Z,Credit card,NO,misroute_both_probes
+18718665,2026-01-14T17:15:30.000Z,Debt or credit management,YES,belongs
+18737669,2026-01-15T05:28:36.000Z,Debt collection,NO,misroute_both_probes
+18869710,2026-01-20T20:35:24.000Z,Debt collection,NO,misroute_both_probes
+18891959,2026-01-21T16:06:33.000Z,Student loan,NO,misroute_both_probes
+18973538,2026-01-24T01:31:01.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+19083587,2026-01-28T21:46:59.000Z,Debt collection,NO,misroute_both_probes
+19106717,2026-01-29T17:35:52.000Z,Debt or credit management,YES,belongs
+19110404,2026-01-29T19:34:55.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+19110579,2026-01-29T19:39:48.000Z,Debt collection,NO,misroute_both_probes
+19136572,2026-01-30T17:41:15.000Z,Prepaid card,NO,misroute_both_probes
+19512246,2026-02-15T08:10:55.000Z,Debt or credit management,YES,belongs
+19544538,2026-02-17T01:35:25.000Z,Credit card,NO,misroute_both_probes
+19579162,2026-02-18T04:08:50.000Z,Debt or credit management,YES,belongs
+19666524,2026-02-20T21:01:36.000Z,Debt or credit management,YES,belongs
+19689031,2026-02-22T09:05:58.000Z,Debt or credit management,YES,belongs
+19692940,2026-02-22T21:16:59.000Z,Debt collection,NO,misroute_both_probes
+19799756,2026-02-26T06:03:12.000Z,Debt or credit management,NO,misroute_one_probe
+19884915,2026-03-02T02:52:41.000Z,Vehicle loan or lease,NO,misroute_both_probes
+19907610,2026-03-02T21:13:03.000Z,Debt or credit management,YES,belongs
+19912776,2026-03-02T23:33:50.000Z,Debt or credit management,NO,misroute_one_probe
+20008863,2026-03-05T18:34:49.000Z,Debt collection,NO,misroute_both_probes
+20016331,2026-03-05T21:30:06.000Z,Debt collection,NO,misroute_both_probes
+20037870,2026-03-06T15:39:53.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+20044003,2026-03-06T18:10:31.000Z,Debt or credit management,YES,belongs
+20056957,2026-03-07T00:20:57.000Z,Debt collection,NO,misroute_both_probes
+20117762,2026-03-10T03:52:14.000Z,Debt collection,NO,misroute_both_probes
+20117998,2026-03-10T04:11:42.000Z,Debt collection,NO,misroute_both_probes
+20118082,2026-03-10T04:15:18.000Z,Debt collection,NO,misroute_both_probes
+20118365,2026-03-10T04:30:52.000Z,Debt collection,NO,misroute_both_probes
+20143520,2026-03-10T20:43:21.000Z,Debt or credit management,YES,belongs
+20150771,2026-03-11T01:13:52.000Z,Debt or credit management,NO,misroute_one_probe
+20151056,2026-03-11T01:21:58.000Z,Debt or credit management,YES,belongs
+20151013,2026-03-11T01:27:03.000Z,Debt collection,NO,misroute_both_probes
+20151158,2026-03-11T01:34:03.000Z,Debt or credit management,NO,misroute_one_probe
+20151480,2026-03-11T01:49:40.000Z,Debt collection,NO,misroute_both_probes
+20205926,2026-03-12T16:01:11.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+20261019,2026-03-14T02:16:10.000Z,Debt collection,NO,misroute_both_probes
+20297257,2026-03-16T15:29:30.000Z,Debt or credit management,YES,belongs
+20358374,2026-03-18T01:50:46.000Z,Mortgage,NO,misroute_both_probes
+20377303,2026-03-18T16:37:52.000Z,Debt or credit management,NO,misroute_one_probe
+20489920,2026-03-22T17:02:52.000Z,Debt or credit management,YES,belongs
+20491870,2026-03-22T22:03:42.000Z,Debt or credit management,YES,belongs
+20569093,2026-03-25T04:13:50.000Z,Debt collection,NO,misroute_both_probes
+20575979,2026-03-25T12:09:59.000Z,Debt or credit management,YES,belongs
+20602830,2026-03-25T23:20:39.000Z,Debt or credit management,YES,belongs
+20703084,2026-03-27T01:59:04.000Z,Debt or credit management,NO,misroute_one_probe
+20703222,2026-03-27T02:07:15.000Z,Debt or credit management,NO,misroute_one_probe
+20703587,2026-03-27T02:26:18.000Z,Debt collection,NO,misroute_both_probes
+20703780,2026-03-27T02:41:02.000Z,Debt collection,NO,misroute_both_probes
+20704278,2026-03-27T03:03:54.000Z,Debt collection,NO,misroute_both_probes
+20745717,2026-03-28T14:32:45.000Z,Checking or savings account,NO,misroute_both_probes
+20760170,2026-03-29T23:06:03.000Z,Debt or credit management,YES,belongs
+20835999,2026-04-01T05:46:24.000Z,Debt or credit management,NO,misroute_one_probe
+20836040,2026-04-01T06:01:53.000Z,Debt collection,NO,misroute_both_probes
+20836102,2026-04-01T06:07:06.000Z,Debt or credit management,NO,misroute_one_probe
+20856849,2026-04-01T19:06:46.000Z,Debt or credit management,YES,belongs
+20862901,2026-04-01T20:54:29.000Z,Debt or credit management,YES,belongs
+20880114,2026-04-02T12:41:03.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+20907269,2026-04-03T01:12:54.000Z,Debt or credit management,YES,belongs
+21140226,2026-04-10T19:10:53.000Z,Debt or credit management,YES,belongs
+21156536,2026-04-11T07:05:21.000Z,Debt or credit management,YES,belongs
+21203563,2026-04-13T21:47:49.000Z,Debt collection,NO,misroute_both_probes
+21238735,2026-04-14T19:50:32.000Z,Debt or credit management,YES,belongs
+21242738,2026-04-14T21:51:08.000Z,Debt or credit management,YES,belongs
+21244650,2026-04-14T22:27:29.000Z,"Money transfer, virtual currency, or money service",NO,misroute_both_probes
+21287528,2026-04-16T00:35:36.000Z,Debt or credit management,YES,belongs
+21316877,2026-04-16T19:37:57.000Z,Debt or credit management,YES,belongs
+21402226,2026-04-20T15:52:48.000Z,Debt or credit management,YES,belongs
+21462683,2026-04-21T22:49:07.000Z,Credit card,NO,misroute_both_probes
+21473344,2026-04-22T06:20:49.000Z,Debt or credit management,NO,misroute_one_probe
+21473731,2026-04-22T06:40:35.000Z,Debt or credit management,NO,misroute_one_probe
+21514576,2026-04-23T05:14:40.000Z,Debt or credit management,NO,misroute_one_probe
+21514781,2026-04-23T05:37:06.000Z,Debt collection,NO,misroute_both_probes
+21544683,2026-04-23T22:01:05.000Z,Debt or credit management,YES,belongs
+21563923,2026-04-24T13:39:12.000Z,Mortgage,NO,misroute_both_probes
+21650354,2026-04-28T00:39:43.000Z,Debt or credit management,YES,belongs
+21660084,2026-04-28T09:25:09.000Z,Debt or credit management,YES,belongs
+21677956,2026-04-28T18:40:12.000Z,Credit card,NO,misroute_both_probes
+21677255,2026-04-28T18:44:53.000Z,Debt or credit management,NO,misroute_one_probe
+21859539,2026-05-04T18:09:25.000Z,Vehicle loan or lease,NO,misroute_both_probes
+21859746,2026-05-04T18:17:15.000Z,Credit card,NO,misroute_both_probes
+21862550,2026-05-04T19:04:17.000Z,Mortgage,NO,misroute_both_probes
+21874442,2026-05-05T01:17:00.000Z,Debt collection,NO,misroute_both_probes
+21875073,2026-05-05T01:40:25.000Z,Debt or credit management,NO,misroute_one_probe
+21902994,2026-05-05T18:58:21.000Z,Debt or credit management,YES,belongs
+21910990,2026-05-05T22:04:43.000Z,Debt collection,NO,misroute_both_probes
+21961118,2026-05-07T03:30:51.000Z,Debt or credit management,NO,misroute_one_probe
+21964763,2026-05-07T06:07:35.000Z,"Payday loan, title loan, personal loan, or advance loan",NO,misroute_both_probes
+22208230,2026-05-14T17:04:10.000Z,Debt or credit management,YES,belongs
+22221649,2026-05-14T22:29:16.000Z,Debt or credit management,NO,misroute_one_probe
+22239668,2026-05-15T13:18:40.000Z,Checking or savings account,NO,misroute_both_probes
+22393525,2026-05-20T16:12:58.000Z,Debt or credit management,YES,belongs
+22432383,2026-05-21T15:52:08.000Z,Debt collection,NO,misroute_both_probes
+22644269,2026-05-28T02:54:47.000Z,Mortgage,NO,misroute_both_probes
+23171474,2026-06-12T20:40:40.000Z,Mortgage,NO,misroute_both_probes
+23227539,2026-06-15T19:58:51.000Z,Debt collection,NO,misroute_both_probes
+23591544,2026-06-26T00:44:17.000Z,Mortgage,NO,misroute_both_probes

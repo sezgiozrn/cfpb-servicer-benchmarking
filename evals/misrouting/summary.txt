@@ -1,0 +1,18 @@
+DCM misrouting audit -- 504 narratives (CA, 2024-01-01..2026-06-30), model claude-sonnet-4-6
+
+usable: 504/504
+misroute (BOTH probes agree):  281/504 (55.8%)  <- headline lower bound
+misroute (ONE probe only):     56/504 (11.1%)  <- uncertainty band
+belongs (both probes):         167/504 (33.1%)
+
+Probe A predicted-category distribution:
+   211  Debt or credit management
+   162  Debt collection
+    34  Credit card
+    27  Checking or savings account
+    26  Mortgage
+    13  Payday loan, title loan, personal loan, or advance loan
+    11  Money transfer, virtual currency, or money service
+     9  Prepaid card
+     6  Vehicle loan or lease
+     5  Student loan

@@ -86,6 +86,17 @@ this is a single worked example of the pattern, not a claim that every
 low-agreement category has the same root cause. The Payday loan category
 (66%) was not hand-inspected and may have a different explanation entirely.
 
+## Follow-up: full-census audit of "Debt or credit management"
+
+The "next step if pursued" below was carried out — see
+[misrouting/README.md](misrouting/README.md). Full census (504 CA
+complaints, not a 50-row sample), two independent classification probes:
+**55.8% high-confidence misroute** (both probes agree), rising to 66.9%
+including the uncertainty band. Hand-inspection shows the category
+functioning as a general catch-all rather than absorbing one specific
+neighbor — a bigger and differently-shaped finding than this section's
+original 44%.
+
 ## Recommendation for the BRD
 
 This supports a narrow, specific next step, not a broad "deploy AI triage"
