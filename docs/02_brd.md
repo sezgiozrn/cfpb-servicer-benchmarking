@@ -4,7 +4,7 @@
 | | |
 |---|---|
 | **Version** | 0.1 (draft) |
-| **Author** | Sezgi Ozturan |
+| **Author** | Business Analyst, Consumer Response Analytics |
 | **Status** | Draft |
 | **Related** | [Decision Memo](01_decision_memo.md), [KPI Dictionary](03_kpi_dictionary.md) |
 

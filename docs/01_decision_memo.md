@@ -1,7 +1,7 @@
 # Decision Memo: Add Product-Category Benchmarking to Servicer Complaint Review
 
 **To:** VP, Consumer Response Operations
-**From:** Sezgi Ozturan, Business Analyst
+**From:** Business Analyst, Consumer Response Analytics
 **Date:** 2026-07-09
 **Decision requested:** Approve building a within-product-category servicer scorecard
 (vs. the current practice of comparing servicers against a single portfolio-wide

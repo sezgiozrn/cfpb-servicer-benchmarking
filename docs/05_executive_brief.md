@@ -1,7 +1,7 @@
 # Executive Brief: "Debt or Credit Management" Intake Category Is Structurally Broken
 
 **To:** VP, Consumer Response Operations
-**From:** Sezgi Ozturan, Business Analyst
+**From:** Business Analyst, Consumer Response Analytics
 **Date:** 2026-07-22
 **Decision requested:** Approve an intake-form redesign for the "Debt or credit
 management" complaint category (Option B below) before any further investment in
